@@ -1,0 +1,14 @@
+{
+  "name": "testrobot/testrobot",
+  "description": "",
+  "autoload": {
+    "psr-4": {
+      "Adapters\\": "Adapters/",
+      "Directions\\":"Directions/",
+      "Controllers\\":"Controllers/",
+      "Coordinates\\":"Coordinates/",
+      "Factories\\":"Factories/",
+      "Output\\":"Output/"
+    }
+  }
+}
